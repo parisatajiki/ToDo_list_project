@@ -3,6 +3,8 @@
 This is a simple command-line application written in Python for managing your daily tasks.  
 It uses a JSON file to store the tasks persistently.
 
+https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add a task
@@ -29,4 +31,4 @@ Just run the Python script:
 ```bash
 python main.py
 
-https://roadmap.sh/projects/task-tracker
+
